@@ -19,7 +19,7 @@
         "php": ">=5.3.3",
         "zendframework/zend-cache" : "2.3.*",
         "zendframework/zend-db" : "2.3.*",
-        "predis/predis": "dev-master"
+        "predis/predis": "1.*"
     },
     "autoload": {
         "psr-0": {
